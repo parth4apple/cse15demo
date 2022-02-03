@@ -1,1 +1,5 @@
-public class Demo {} // will edit the rest in visual studio code
+public class Demo {
+    public static int subtraction (int m, int n) {
+        return m-n;
+    }
+} 
